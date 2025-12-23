@@ -1,0 +1,32 @@
+{
+  "name": "Abhishek",
+  "profile_id": "abhishek-profile-data-ba27",
+  "created_at": "2025-01-23",
+  "personal_information": {
+    "first_name": "Abhishek",
+    "last_name": null,
+    "email": null,
+    "phone": null,
+    "date_of_birth": null,
+    "address": null
+  },
+  "financial_information": {
+    "bank_accounts": [],
+    "credit_cards": [],
+    "routing_numbers": []
+  },
+  "health_information": {
+    "medications": [],
+    "medical_records": [],
+    "ssn": null
+  },
+  "metadata": {
+    "data_sources": [
+      "dlp_pci_small_csv.csv",
+      "dlp_phi_small_documents.txt",
+      "dlp_phi_small_json.json"
+    ],
+    "last_updated": "2025-01-23",
+    "version": "1.0"
+  }
+}
