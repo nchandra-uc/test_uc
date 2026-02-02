@@ -1,0 +1,87 @@
+================================================================================
+ACCOUNT AND ROUTING NUMBERS ANALYSIS REPORT
+================================================================================
+
+BASIC STATISTICS
+--------------------------------------------------------------------------------
+Total Records: 50
+Total Account Numbers Found: 100
+Unique Account Numbers: 100
+Total Routing Numbers Found: 50
+Unique Routing Numbers: 49
+
+ACCOUNT NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Account Number Length Distribution:
+  12 digits: 100 occurrences
+
+Account Number Patterns:
+  12-digit: 50 occurrences
+
+No duplicate account numbers found.
+
+ROUTING NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Routing Number Length Distribution:
+  9 digits: 50 occurrences
+
+Routing Number Patterns:
+  9-digit (standard): 50 occurrences
+
+Valid 9-digit Routing Numbers (checksum): 41
+Invalid 9-digit Routing Numbers (checksum): 8
+Invalid routing numbers:
+  111901738
+  114901322
+  021911979
+  061212340
+  073900990
+  053101691
+  111901728
+  081300948
+
+Duplicate Routing Numbers (1):
+  123006800: appears 2 times
+
+LABEL ANALYSIS
+--------------------------------------------------------------------------------
+Labels found:
+  'ABA number': 1 occurrences
+  'aba numbers': 1 occurrences
+  'bank acct. no.': 1 occurrences
+  'bank acct. no': 1 occurrences
+  'USA': 1 occurrences
+
+SAMPLE RECORDS
+--------------------------------------------------------------------------------
+Record 1:
+  Account 1: 586320484095 (from: 1. Account +A1:D42#: 586320484095)
+  Account 2: 458385015647 (from: 1. Account #: 458385015647)
+  Routing: 061000146 (from: 1. Routing #: 061000146)
+  Label: ABA number
+
+Record 2:
+  Account 1: 562098586021 (from: 2. Deposit Account #: 562098586021)
+  Account 2: 310012015157 (from: 2. Deposit Account #: 310012015157)
+  Routing: 031100209 (from: 2. Bank Routing #: 031100209)
+  Label: aba numbers
+
+Record 3:
+  Account 1: 092814867572 (from: 3. Account #: 092814867572)
+  Account 2: 385742831546 (from: 3. Account #: 385742831546)
+  Routing: 063103915 (from: 3. Routing #: 063103915)
+  Label: bank acct. no.
+
+Record 4:
+  Account 1: 162890726002 (from: 4. Deposit Account #: 162890726002)
+  Account 2: 901001856353 (from: 4. Deposit Account #: 901001856353)
+  Routing: 011401533 (from: 4. Bank Routing #: 011401533)
+  Label: bank acct. no
+
+Record 5:
+  Account 1: 340913548601 (from: 5. Account #: 340913548601)
+  Account 2: 599287434539 (from: 5. Account #: 599287434539)
+  Routing: 071000013 (from: 5. Routing #: 071000013)
+  Label: USA
+
+================================================================================
