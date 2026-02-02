@@ -1,0 +1,91 @@
+================================================================================
+FINANCIAL ACCOUNT DATA ANALYSIS REPORT
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Records Analyzed: 50
+Account Numbers Found: 100
+Deposit Account Numbers Found: 50
+Routing Numbers Found: 50
+Bank Routing Numbers Found: 25
+ABA Number References: 2
+
+ACCOUNT NUMBERS
+--------------------------------------------------------------------------------
+Count: 100
+Length Range: 12 - 12 digits
+Average Length: 12.0 digits
+
+Sample Account Numbers (first 10):
+  Line 1: 586320484095
+  Line 1: 458385015647
+  Line 2: 562098586021
+  Line 2: 310012015157
+  Line 3: 092814867572
+  Line 3: 385742831546
+  Line 4: 162890726002
+  Line 4: 901001856353
+  Line 5: 340913548601
+  Line 5: 599287434539
+
+DEPOSIT ACCOUNT NUMBERS
+--------------------------------------------------------------------------------
+Count: 50
+Length Range: 12 - 12 digits
+Average Length: 12.0 digits
+
+Sample Deposit Account Numbers (first 10):
+  Line 2: 562098586021
+  Line 2: 310012015157
+  Line 4: 162890726002
+  Line 4: 901001856353
+  Line 6: 610985742032
+  Line 6: 708000093468
+  Line 8: 951208363010
+  Line 8: 810001816445
+  Line 10: 831207734350
+  Line 10: 409012924477
+
+ROUTING NUMBERS
+--------------------------------------------------------------------------------
+Count: 50
+Length Range: 9 - 9 digits
+Average Length: 9.0 digits
+
+Sample Routing Numbers (first 10):
+  Line 1: 061000146
+  Line 2: 031100209
+  Line 3: 063103915
+  Line 4: 011401533
+  Line 5: 071000013
+  Line 6: 053000219
+  Line 7: 021200025
+  Line 8: 074000010
+  Line 9: 061212340
+  Line 10: 011500120
+
+BANK ROUTING NUMBERS
+--------------------------------------------------------------------------------
+Count: 25
+Length Range: 9 - 9 digits
+Average Length: 9.0 digits
+
+Sample Bank Routing Numbers (first 10):
+  Line 2: 031100209
+  Line 4: 011401533
+  Line 6: 053000219
+  Line 8: 074000010
+  Line 10: 011500120
+  Line 12: 102101645
+  Line 14: 021200339
+  Line 16: 021000021
+  Line 18: 123006800
+  Line 20: 011201759
+
+DATA QUALITY ANALYSIS
+--------------------------------------------------------------------------------
+✓ No duplicate account numbers found
+✓ All routing numbers have standard 9-digit format
+
+================================================================================
