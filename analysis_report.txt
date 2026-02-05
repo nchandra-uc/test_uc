@@ -1,0 +1,40 @@
+======================================================================
+BANK ACCOUNT AND ROUTING NUMBERS DATA ANALYSIS
+======================================================================
+
+SUMMARY STATISTICS:
+----------------------------------------------------------------------
+Total Rows: 50
+Unique Account Numbers (Column 1): 50
+Unique Account Numbers (Column 2): 50
+Total Unique Account Numbers: 100
+Unique Routing Numbers: 49
+
+ACCOUNT TYPE DISTRIBUTION:
+----------------------------------------------------------------------
+Column 1 Account Types:
+  Account: 25
+  Deposit Account: 25
+
+Column 2 Account Types:
+  Account: 25
+  Deposit Account: 25
+
+ACCOUNT NUMBER LENGTH ANALYSIS:
+----------------------------------------------------------------------
+Column 1 Account Lengths:
+  12 digits: 50 accounts
+
+Column 2 Account Lengths:
+  12 digits: 50 accounts
+
+ROUTING NUMBER ANALYSIS:
+----------------------------------------------------------------------
+Routing Number Lengths:
+  9 digits: 50 routing numbers
+
+DUPLICATE ROUTING NUMBERS:
+----------------------------------------------------------------------
+  123006800: appears 2 times
+
+======================================================================
