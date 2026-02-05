@@ -1,0 +1,86 @@
+================================================================================
+ACCOUNT AND ROUTING NUMBER DATA ANALYSIS REPORT
+================================================================================
+
+## FILE OVERVIEW
+--------------------------------------------------------------------------------
+Total Records Analyzed: 50
+Records with Account Numbers: 50
+Records with Routing Numbers: 50
+Records with Both: 50
+
+## ACCOUNT NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Account Numbers Found: 249
+Unique Account Numbers: 100
+Duplicate Account Numbers: 99
+  Examples: 458385015647, 562098586021, 310012015157, 092814867572, 385742831546
+
+Account Number Length Distribution:
+  12 digits: 249 accounts
+
+Sample Account Numbers:
+  586320484095
+  458385015647
+  458385015647
+  562098586021
+  562098586021
+  562098586021
+  310012015157
+  310012015157
+  310012015157
+  092814867572
+
+## ROUTING NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Routing Numbers Found: 75
+Unique Routing Numbers: 49
+Duplicate Routing Numbers: 25
+  Examples: 031100209, 011401533, 053000219, 074000010, 011500120
+
+Routing Number Length Distribution:
+  9 digits: 75 routings
+
+Sample Routing Numbers:
+  061000146
+  031100209
+  031100209
+  063103915
+  011401533
+  011401533
+  071000013
+  053000219
+  053000219
+  021200025
+
+## DATA STRUCTURE ANALYSIS
+--------------------------------------------------------------------------------
+Column Count Distribution:
+  3 columns: 45 records
+  4 columns: 5 records
+
+Accounts per Record Statistics:
+  Min: 3, Max: 6, Avg: 4.98
+
+Routings per Record Statistics:
+  Min: 1, Max: 2, Avg: 1.50
+
+## FORMAT PATTERNS IDENTIFIED
+--------------------------------------------------------------------------------
+Account Number Formats Found:
+  - 'Account #: <number>'
+  - 'Deposit Account #: <number>'
+  - 'Account +A1:D42#: <number>' (spreadsheet reference)
+
+Routing Number Formats Found:
+  - 'Routing #: <number>'
+  - 'Bank Routing #: <number>'
+
+## DATA QUALITY OBSERVATIONS
+--------------------------------------------------------------------------------
+US Routing Number Format (9 digits): 10/10 in sample
+Typical Account Number Length (10-17 digits): 10/10 in sample
+
+================================================================================
+END OF REPORT
+================================================================================
