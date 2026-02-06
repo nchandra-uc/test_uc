@@ -1,0 +1,77 @@
+================================================================================
+DETAILED FINANCIAL ACCOUNT DATA ANALYSIS
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Records: 50
+Total Account Numbers: 100
+Total Deposit Account Numbers: 50
+Total Routing Numbers: 50
+Total Bank Routing Numbers: 25
+
+ACCOUNT NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Count: 100
+Unique Count: 100
+Length: All are 12 digits
+
+✓ No duplicates found
+
+DEPOSIT ACCOUNT NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Count: 50
+Unique Count: 50
+Length: All are 12 digits
+
+✓ No duplicates found
+
+ROUTING NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Count: 50
+Unique Count: 49
+Length: All are 9 digits (standard US format)
+
+Federal Reserve District Distribution (first 2 digits):
+   District 01: 3 routing numbers
+   District 02: 9 routing numbers
+   District 03: 4 routing numbers
+   District 04: 1 routing numbers
+   District 05: 4 routing numbers
+   District 06: 8 routing numbers
+   District 07: 4 routing numbers
+   District 08: 2 routing numbers
+   District 09: 1 routing numbers
+   District 10: 3 routing numbers
+
+⚠️  Duplicates Found: 1
+   123006800: appears 2 times
+
+BANK ROUTING NUMBER ANALYSIS
+--------------------------------------------------------------------------------
+Total Count: 25
+Unique Count: 25
+
+Note: 25 bank routing numbers also appear as regular routing numbers
+
+DATA STRUCTURE ANALYSIS
+--------------------------------------------------------------------------------
+Lines with multiple account numbers: 50
+Lines with both Account and Deposit Account: 25
+Lines with routing numbers: 50
+
+SECURITY & COMPLIANCE NOTES
+--------------------------------------------------------------------------------
+⚠️  This file contains sensitive financial information:
+   - Account numbers (PII - Personally Identifiable Information)
+   - Routing numbers (sensitive financial data)
+   - Deposit account numbers (PII)
+
+Recommendations:
+   1. Ensure proper access controls are in place
+   2. Encrypt this data at rest and in transit
+   3. Follow PCI-DSS and financial data protection regulations
+   4. Implement data masking for non-production environments
+   5. Maintain audit logs for access to this data
+
+================================================================================
