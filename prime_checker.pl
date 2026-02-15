@@ -25,7 +25,7 @@ sub is_prime {
 }
 
 if (is_prime($num)) {
-    print "$num is a prime number.\n";
+    print "Custom message for validation\n";
 } else {
     print "$num is not a prime number.\n";
 }
