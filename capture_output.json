@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Agnes McCartney",
+    "bank_account": null,
+    "credit_card": "6011125223709063",
+    "account_number": null,
+    "routing_number": null,
+    "account_type": null
+  },
+  {
+    "name": "Sandra Gooch",
+    "bank_account": null,
+    "credit_card": null,
+    "account_number": null,
+    "routing_number": null,
+    "account_type": null
+  },
+  {
+    "name": "Alex Hunt",
+    "bank_account": null,
+    "credit_card": "4126246328149117",
+    "account_number": null,
+    "routing_number": null,
+    "account_type": "Checking"
+  },
+  {
+    "name": "Alex Hunt",
+    "bank_account": null,
+    "credit_card": "5116845485280950",
+    "account_number": null,
+    "routing_number": null,
+    "account_type": "Checking"
+  },
+  {
+    "name": "Ben Lawton",
+    "bank_account": "30013622322912",
+    "credit_card": null,
+    "account_number": null,
+    "routing_number": null,
+    "account_type": "Checking"
+  },
+  {
+    "name": null,
+    "bank_account": "341303856308768",
+    "credit_card": null,
+    "account_number": "9046127-432",
+    "routing_number": null,
+    "account_type": null
+  }
+]
