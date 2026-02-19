@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Agnes McCartney",
+    "account_type": null,
+    "account_number": null,
+    "credit_card_number": "6011125223709063",
+    "routing_number": null,
+    "checking_account": null,
+    "raw_text": "Client Bank Account # Credit Card # Agnes McCartney 6011125223709063 Sandra Gooch"
+  },
+  {
+    "name": "Sandra Gooch",
+    "account_type": null,
+    "account_number": null,
+    "credit_card_number": null,
+    "routing_number": null,
+    "checking_account": null,
+    "raw_text": "Client Bank Account # Credit Card # Agnes McCartney 6011125223709063 Sandra Gooch"
+  },
+  {
+    "name": "Ben Lawton",
+    "account_type": "Checking Account",
+    "account_number": "30013622322912",
+    "credit_card_number": "4126246328149117",
+    "routing_number": null,
+    "checking_account": "Yes",
+    "raw_text": "5116845485280950 Alex Hunt 4126246328149117 30013622322912 Ben Lawton Checking"
+  },
+  {
+    "name": "Alex Hunt",
+    "account_type": null,
+    "account_number": null,
+    "credit_card_number": "5116845485280950",
+    "routing_number": null,
+    "checking_account": null,
+    "raw_text": "5116845485280950 Alex Hunt 4126246328149117 30013622322912 Ben Lawton Checking"
+  },
+  {
+    "name": null,
+    "account_type": "Bank Account",
+    "account_number": "341303856308768",
+    "credit_card_number": null,
+    "routing_number": null,
+    "checking_account": null,
+    "raw_text": "Account: 9046127-432 341303856308768"
+  },
+  {
+    "name": null,
+    "account_type": "Bank Account",
+    "account_number": "9046127-432",
+    "credit_card_number": null,
+    "routing_number": null,
+    "checking_account": null,
+    "raw_text": "Account: 9046127-432 341303856308768"
+  }
+]
