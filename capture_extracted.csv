@@ -1,0 +1,7 @@
+name,account_type,account_number,credit_card_number,routing_number,checking_account,raw_text
+Agnes McCartney,,,6011125223709063,,,"Client Bank Account # Credit Card # Agnes McCartney 6011125223709063 Sandra Gooch"
+Sandra Gooch,,,,,,"Client Bank Account # Credit Card # Agnes McCartney 6011125223709063 Sandra Gooch"
+Ben Lawton,Checking Account,30013622322912,4126246328149117,,Yes,"5116845485280950 Alex Hunt 4126246328149117 30013622322912 Ben Lawton Checking"
+Alex Hunt,,,5116845485280950,,,"5116845485280950 Alex Hunt 4126246328149117 30013622322912 Ben Lawton Checking"
+,Bank Account,341303856308768,,,,"Account: 9046127-432 341303856308768"
+,Bank Account,9046127-432,,,,"Account: 9046127-432 341303856308768"
