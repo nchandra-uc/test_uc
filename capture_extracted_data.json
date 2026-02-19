@@ -1,0 +1,45 @@
+{
+  "source": "Capture.JPG",
+  "extraction_date": "2026-02-19",
+  "data": [
+    {
+      "type": "credit_card",
+      "number": "6011125223709063",
+      "associated_name": "Agnes McCartney"
+    },
+    {
+      "type": "credit_card",
+      "number": "6011125223709063",
+      "associated_name": "Sandra Gooch"
+    },
+    {
+      "type": "bank_account",
+      "number": "5116845485280950",
+      "associated_name": "Alex Hunt"
+    },
+    {
+      "type": "bank_account",
+      "number": "4126246328149117"
+    },
+    {
+      "type": "bank_account",
+      "number": "30013622322912",
+      "associated_name": "Ben Lawton",
+      "account_type": "Checking"
+    },
+    {
+      "type": "bank_account",
+      "number": "9046127-432"
+    },
+    {
+      "type": "bank_account",
+      "number": "341303856308768"
+    }
+  ],
+  "summary": {
+    "total_records": 7,
+    "credit_cards": 2,
+    "bank_accounts": 5,
+    "names_identified": 4
+  }
+}
