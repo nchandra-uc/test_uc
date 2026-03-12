@@ -1,0 +1,4 @@
+# Compiled binaries
+quicksort
+*.o
+*.exe
