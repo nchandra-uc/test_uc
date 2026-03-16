@@ -1,0 +1,10 @@
+# Compiled binaries
+qsort_demo
+*.o
+*.exe
+*.out
+
+# Build artifacts
+*.a
+*.so
+*.dylib
