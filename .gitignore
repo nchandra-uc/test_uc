@@ -1,0 +1,10 @@
+# Compiled binaries
+sort
+*.o
+*.out
+*.exe
+
+# Build artifacts
+*.a
+*.so
+*.dylib
