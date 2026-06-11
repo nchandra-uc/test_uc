@@ -1,0 +1,5 @@
+Custom message for validation
+
+This file contains a custom validation message for DLP policy testing.
+Use this content to verify that custom-term classification rules detect
+the phrase above and display the configured advisory message to users.
